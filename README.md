@@ -1,22 +1,23 @@
 # ML resources
-where i keep track of excellent ML ideas, resources, and papers
+
+This is a list of ML ideas and papers.
 
 ## Various methods
 
-- Volterra series
-  * [scholarpedia explanation](http://www.scholarpedia.org/article/Volterra_and_Wiener_series)
+- Neural Networks
+  * [Approximation by Superpositions of a Sigmoidal Function - Cybenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf)
+    - This contains a non-constructive proof of the universal approximation theorem w/ sigmoid activation
 
 - Tensor methods
   * [Simple explanation](http://www.offconvex.org/2015/12/17/tensor-decompositions/)
   * [Slides + videos on tensor methods by Anima Anandkumar](http://newport.eecs.uci.edu/anandkumar/MLSS.html)
 
-- Neural Nets
-  * [Approximation by Superpositions of a Sigmoidal Function - Cybenko](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf)
-    - Universal approximation theorem w/ sigmoid activation
+- Volterra series
+  * [scholarpedia explanation](http://www.scholarpedia.org/article/Volterra_and_Wiener_series)
   
-## Uncategorized
+## General ideas 
 
-- [An Overview of Statistical Learning Theory - Vapnik](http://math.arizona.edu/~hzhang/math574m/Read/vapnik.pdf)
+ - [An Overview of Statistical Learning Theory - Vapnik](http://math.arizona.edu/~hzhang/math574m/Read/vapnik.pdf)
  
-- Advice
-  * [Yann LeCun on path from undergradate to research scientist](https://www.quora.com/What’s-your-advice-for-undergraduate-student-who-aspires-to-be-a-research-scientist-in-deep-learning-or-related-field-one-day)
+## Advice
+- [Yann LeCun on path from undergradate to research scientist](https://www.quora.com/What’s-your-advice-for-undergraduate-student-who-aspires-to-be-a-research-scientist-in-deep-learning-or-related-field-one-day)
