@@ -4,6 +4,10 @@ This is a list of ML ideas and papers.
 
 ## Various methods
 
+- Reinforcement Learning
+  * [Learning From Delayed Rewards](http://www.cs.rhul.ac.uk/~chrisw/new_thesis.pdf)
+     - Chris Watkins's PhD thesis on Q-Learning
+
 - Random Forests
   * [Properties + discusson of convergence in random forests](https://www.stat.berkeley.edu/users/breiman/randomforest2001.pdf)
 
