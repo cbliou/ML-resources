@@ -1,6 +1,6 @@
 # ML/AI resources
 
-This is a list of ML/AI ideas and papers.
+This is a list of ML/AI ideas and papers. The folder contains all the papers linked within the README.
 
 ## ML methods
 
@@ -29,7 +29,7 @@ Generalization Gap and Sharp Minima](https://arxiv.org/pdf/1609.04836.pdf)
 ## AI methods
 
 - Poker
-  * [Heads-up limit hold'em poker is solved](http://delivery.acm.org/10.1145/3140000/3131284/p81-bowling.pdf?ip=141.126.87.116&id=3131284&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1533115629_9ca95a1aad67eca6ca217185228831c1)
+  * [Heads-up limit hold'em poker is solved](https://dl.acm.org/ft_gateway.cfm?id=3131284&ftid=1916003&dwn=1&CFID=58486348&CFTOKEN=2781016129585f35-917DB221-AEDD-3087-871816131ABF751F)
 
 ## General ideas 
 
